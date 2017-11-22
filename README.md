@@ -283,6 +283,7 @@ configuration when invoked to evaluate a line."
 (define-key scala-mode-map (kbd "<C-return>") 'eir-eval-in-scala)
 ```
 
+
 **Known issues**
 --------------------
 
